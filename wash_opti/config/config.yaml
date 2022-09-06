@@ -1,0 +1,5 @@
+# Execution configuration
+no_of_wash_machines: 3
+no_of_hours_per_day: 8
+
+path_to_input_file: test_data/test_input.csv
